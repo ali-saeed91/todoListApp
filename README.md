@@ -1,1 +1,1 @@
-# todoListApp using React
+# todoListApp using React Frontend only
